@@ -8,7 +8,7 @@ import Contact from './components/pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router  basename = "rg-react-folio">
       <div>
         <NavTabs />
         {/* Wrap Route elements in a Routes component */}
