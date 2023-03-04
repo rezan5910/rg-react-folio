@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rg-react-folio/static/css/main.c2cab247.css",
-    "main.js": "/rg-react-folio/static/js/main.45560cc8.js",
+    "main.js": "/rg-react-folio/static/js/main.80ee57b9.js",
     "index.html": "/rg-react-folio/index.html",
     "main.c2cab247.css.map": "/rg-react-folio/static/css/main.c2cab247.css.map",
-    "main.45560cc8.js.map": "/rg-react-folio/static/js/main.45560cc8.js.map"
+    "main.80ee57b9.js.map": "/rg-react-folio/static/js/main.80ee57b9.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.45560cc8.js"
+    "static/js/main.80ee57b9.js"
   ]
 }
